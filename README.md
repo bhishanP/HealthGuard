@@ -106,10 +106,3 @@ Visit [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
 - Retrain or update the model using `readmission.ipynb`
 - Update the web form (`index.html`) to match any changes in model input features
 
----
-
-## 📄 License
-
-Specify your license here (e.g., MIT, Apache 2.0).
-
----
